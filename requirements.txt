@@ -34,4 +34,4 @@ humanize
 
 cryptg
 telethon
-python==3.11.6-decouple
+python==3.11.6
