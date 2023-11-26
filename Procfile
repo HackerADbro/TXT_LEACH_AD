@@ -20,4 +20,4 @@
 #  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 #  SOFTWARE
 
-worker: python-3.10.13 main.py
+worker: python main.py
